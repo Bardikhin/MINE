@@ -1,13 +1,13 @@
+<?php
+    $name = "Александр";
+    $age  = 26;
+    $address = "sangib@mail.ru";
+    $city = "Moscow";
+    $text = "Работаю статистиком";
+?>
 <html lang="ru"><head>
         <title>Саша – LAMP стэк разработчик</title>
         <meta charset="utf-8">
-        <?php
-            $name = "Александр";
-            $age  = 26;
-            $address = "sangib@mail.ru";
-            $city = "Moscow";
-            $text = "Работаю статистиком";
-        ?>
         <style>
             body {
                 font-family: sans-serif;  
