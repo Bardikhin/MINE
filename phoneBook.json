@@ -1,0 +1,21 @@
+[{
+	"firstName": "Иван",
+	"lastName": "Иванов",
+	"address": "г. Москва, ул Алиева, 2",
+	"phoneNumber": "8121231234"
+}, {
+	"firstName": "Петро",
+	"lastName": "Петров",
+	"address": "г. Москва, ул Державина, 48Б",
+	"phoneNumber": "8178654544"
+}, {
+	"firstName": "Джон",
+	"lastName": "Сноу",
+	"address": "г. Винтерфел, ул Царская, 1",
+	"phoneNumber": "8656541234"
+}, {
+	"firstName": "Ксения",
+	"lastName": "Непобедимая",
+	"address": "г. Домодедово, ул Курыжова, 3",
+	"phoneNumber": "89543578021"
+}]
