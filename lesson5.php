@@ -1,5 +1,5 @@
 <?php
-	$jsonString = file_get_contents('C:\xampp\htdocs\mine\phoneBook.json');
+	$jsonString = file_get_contents('phoneBook.json');
 	$data = json_decode($jsonString, true);
 ?>
 
@@ -24,7 +24,6 @@
 				<td><?php echo $datum['phoneNumber']?></td>
 			</tr>
 		<?php } ?>
-
 	</table>
 
 </body>
